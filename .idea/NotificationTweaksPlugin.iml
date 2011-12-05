@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/0.11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/nevernotifyupdaterplugin/0.11/nevernotifyupdaterplugin" isTestSource="false" />
+    </content>
+    <content url="file://$USER_HOME$/downloads/Trac-0.11.7">
+      <sourceFolder url="file://$USER_HOME$/downloads/Trac-0.11.7/trac" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
+
